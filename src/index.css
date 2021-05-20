@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+* {
+  outline: none !important ;
+}
+
+.MuiTableRow-root.MuiTableRow-hover.Mui-selected {
+  background: #1782923f;
+}
+.MuiTableRow-root.MuiTableRow-hover.Mui-selected:hover {
+  background: #1782925f;
+}
+
+.MuiToolbar-root.MuiToolbar-regular.makeStyles-root-25.makeStyles-highlight-26.MuiToolbar-gutters {
+  background: #1782925f;
+}
+
+.MuiTypography-subtitle1 {
+  color: rgba(0, 0, 0, 0.54) !important;
+}
+
+.MuiCheckbox-colorSecondary.Mui-checked {
+  color: rgba(0, 0, 0, 0.54) !important;
+}
+
+.MuiTabs-indicator > span {
+  background-color: #006bb6 !important;
+}
